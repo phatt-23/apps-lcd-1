@@ -3,11 +3,7 @@
 #include <unistd.h>
 #include <opencv2/opencv.hpp>
 
-#include "lcd_lib.h"
-#include "font8x8.h"
-
 #include "graph_class.hpp"
-
 
 int main()
 {
